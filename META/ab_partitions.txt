@@ -1,3 +1,0 @@
-my_company
-my_preload
-vbmeta
